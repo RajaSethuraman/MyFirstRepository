@@ -2,3 +2,5 @@
 2. samsung
 3. Oppo
 4. vivo
+5. Sony
+6. Nokia
