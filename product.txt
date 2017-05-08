@@ -3,6 +3,4 @@
 3. Oppo
 4. vivo
 5. Sony
-6. Nokia
-7. Lenovo
-8. Motorola
+6. panasonic
