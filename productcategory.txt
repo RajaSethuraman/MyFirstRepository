@@ -1,0 +1,6 @@
+1.Electronics
+2.HomeAppliances
+3.Toys
+4.KidsWear
+5.Jewels
+6.Shoes
