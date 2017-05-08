@@ -1,2 +1,4 @@
 1. Amazon
 2. Flipkart
+3. paytm
+4. snapdeal
